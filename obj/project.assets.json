@@ -13115,30 +13115,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\juan_\\.nuget\\packages\\": {},
+    "C:\\Users\\jrianocastan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juan_\\Desktop\\INTRE\\InventarioMVC.csproj",
+      "projectUniqueName": "c:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC-2\\InventarioMVC.csproj",
       "projectName": "InventarioMVC",
-      "projectPath": "C:\\Users\\juan_\\Desktop\\INTRE\\InventarioMVC.csproj",
-      "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juan_\\Desktop\\INTRE\\obj\\",
+      "projectPath": "c:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC-2\\InventarioMVC.csproj",
+      "packagesPath": "C:\\Users\\jrianocastan\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\jrianocastan\\OneDrive - DXC Production\\INGENIERIA DE SOFTWARE\\SEGUNDO SEMESTRE\\INTEGRACIÓN CONTINUA\\Poli_InventarioMVC-2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\jrianocastan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
